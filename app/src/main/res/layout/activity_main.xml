@@ -145,7 +145,7 @@
                     android:id="@+id/email_et"
                     android:hint="E-mail"
                     android:inputType="textEmailAddress"
-                    android:text="myrdsf@fdg.ru"
+                    android:text="kreker@mail.ru"
                     />
             </android.support.design.widget.TextInputLayout>
         </LinearLayout>
@@ -174,7 +174,7 @@
                     android:id="@+id/profile_et"
                     android:hint="Профиль в VK"
                     android:inputType="text"
-                    android:text="myrdsf@fdg.ru"
+                    android:text="vk.com/aidar.khasanov"
                     />
             </android.support.design.widget.TextInputLayout>
         </LinearLayout>
@@ -203,7 +203,7 @@
                     android:id="@+id/repository_et"
                     android:hint="Репозиторий"
                     android:inputType="text"
-                    android:text="myrdsf@fdg.ru"
+                    android:text="github.com/registr/DevIntensive"
                     />
             </android.support.design.widget.TextInputLayout>
         </LinearLayout>
